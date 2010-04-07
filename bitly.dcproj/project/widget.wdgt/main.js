@@ -154,3 +154,8 @@ function return_handler(event)
         shorten_click(event);
     }
 }
+
+function pass_focus(event)
+{
+    document.getElementById("urlfield").focus();
+}

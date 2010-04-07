@@ -14,12 +14,12 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {759, 377}}</string>
-			<string>{{0, 387}, {759, 246}}</string>
+			<string>{{0, 0}, {759, 145}}</string>
+			<string>{{0, 155}, {759, 478}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -49,6 +49,8 @@
 			<string>{{245, 0}, {760, 654}}</string>
 		</array>
 	</dict>
+	<key>MainWindowFrame</key>
+	<string>50 103 1004 675 0 0 1280 778 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -80,9 +82,14 @@
 			</array>
 		</array>
 		<key>Objects view last selections</key>
-		<array/>
+		<array>
+			<array>
+				<integer>2</integer>
+			</array>
+		</array>
 		<key>Opened Steps</key>
 		<array>
+			<integer>2</integer>
 			<integer>5</integer>
 		</array>
 		<key>Visible StackLayout Views</key>
